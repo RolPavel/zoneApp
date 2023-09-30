@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Zone</string>
+    <string name="hello">Hello</string>
+    <string name="goodbye">Goodbye</string>
+    <string name="match_the_time_zone_with_the_city">match the time zone with the city</string>
+    <string name="play">PLAY</string>
+    <string name="easy_mode">EASY MODE</string>
+    <string name="hard_mod">HARD MOD</string>
+    <string name="_00_10">00:10</string>
+    <string name="city">City</string>
+    <string name="start">start</string>
+    <string name="london">London</string>
+    <string name="moscow">Moscow</string>
+    <string name="parish">Parish</string>
+    <string name="czech">Czech</string>
+    <string name="istanbul">Istanbul</string>
+    <string name="yerevan">Yerevan</string>
+    <string name="check">Check</string>
+    <string name="answer">ANSWER</string>
+    <string name="points_0">Points: 0</string>
+    <string name="_0">0</string>
+    <string name="your_total_score_is">Your total score is:</string>
+    <string name="congratulations">Congratulations</string>
+    <string name="try_again">try again?</string>
+
+</resources>
