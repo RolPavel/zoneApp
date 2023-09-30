@@ -189,7 +189,7 @@
         android:layout_width="53dp"
         android:layout_height="38dp"
         android:text="@string/_0"
-        android:visibility="visible" />
+        android:visibility="invisible" />
 
 
 </androidx.constraintlayout.widget.ConstraintLayout>
